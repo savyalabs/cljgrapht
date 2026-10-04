@@ -5,6 +5,12 @@ the conventions of [keepachangelog.com](http://keepachangelog.com/).
 
 ## [Unreleased]
 
+## [1.4.2] - 2026-10-04
+
+### Changed
+
+- Bump the optional `net.clojars.savya/loom` dependency to 1.4.2.
+
 ## [1.4.1] - 2026-08-30
 
 ### Fixed
